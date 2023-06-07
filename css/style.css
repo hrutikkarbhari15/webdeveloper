@@ -551,3 +551,11 @@ form:hover .form-button button {
 
 
 }
+
+@media(max-width:768px) {
+    #offer img {
+        width: 80%;
+    }
+
+
+}
